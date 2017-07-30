@@ -1,5 +1,5 @@
 # Funnemathics | Maths with Shah
-High School Web Development Project 
+High School Web Development Project - Math Tutoring Website 
 
 Using:
 - HTML5
