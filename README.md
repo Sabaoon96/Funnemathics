@@ -7,4 +7,4 @@ Using:
 - Javascript
 - PHP
 
-### Link: https://sabaoon96.github.io/funnemathics/
+### Link: https://sabaoon96.github.io/Funnemathics/
